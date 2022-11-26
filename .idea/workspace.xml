@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18aefb59-c444-4ce5-a1c0-8a9f363448de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoritimosA1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/M1S1/Aula02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/M1S1/Aula03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/M1S1/Aula04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/M1S1/Exercicio/Array/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
