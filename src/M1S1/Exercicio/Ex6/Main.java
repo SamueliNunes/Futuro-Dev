@@ -15,6 +15,7 @@ public class Main {
                 System.out.println("Numero Invalido");
             }
         }while (select <=0 || select >= 7);
+
         System.out.println("Seu amigo secreto é: " + pessoas[select-1]);
     }
 }
