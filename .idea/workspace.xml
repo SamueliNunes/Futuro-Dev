@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18aefb59-c444-4ce5-a1c0-8a9f363448de" name="Changes" comment="sistemas de venda ex4">
+    <list default="true" id="18aefb59-c444-4ce5-a1c0-8a9f363448de" name="Changes" comment="Sequência de fibonacci">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669584925875</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sequência de fibonacci">
+      <created>1669590481087</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669590481087</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +107,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ArrayList" />
     <MESSAGE value="sistemas de venda ex4" />
-    <option name="LAST_COMMIT_MESSAGE" value="sistemas de venda ex4" />
+    <MESSAGE value="Sequência de fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sequência de fibonacci" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
