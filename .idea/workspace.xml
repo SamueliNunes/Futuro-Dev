@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18aefb59-c444-4ce5-a1c0-8a9f363448de" name="Changes" comment="Sequência de fibonacci">
+      <change afterPath="$PROJECT_DIR$/src/M1S2/Aula01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/M1S2/Aula01/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669591275829</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sequência de fibonacci">
+      <created>1669593426290</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669593426290</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
