@@ -1,4 +1,4 @@
-package M1S2.Aula01;
+package m1s2.aula01;
 
 public class Main {
     public static void main(String[] args){

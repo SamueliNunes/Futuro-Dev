@@ -1,4 +1,4 @@
-package M1S1.Exercicio.Ex2;
+package m1s1.exercicio.Ex2;
 
 import java.util.Scanner;
 public class Main {

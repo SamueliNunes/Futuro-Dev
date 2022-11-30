@@ -1,4 +1,4 @@
-package M1S1.Exercicio.Array;
+package m1s1.exercicio.Array;
 import java.util.Scanner;
 
 public class Main {

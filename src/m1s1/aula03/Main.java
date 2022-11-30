@@ -1,4 +1,4 @@
-package M1S1.Aula03;
+package m1s1.aula03;
 import java.util.Scanner;
 
 public class Main {
