@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="18aefb59-c444-4ce5-a1c0-8a9f363448de" name="Changes" comment="Class">
-      <change afterPath="$PROJECT_DIR$/src/m1s2/aula02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m1s2/aula02/Usuario.java" afterDir="false" />
+    <list default="true" id="18aefb59-c444-4ce5-a1c0-8a9f363448de" name="Changes" comment="Semana 02 atividades">
+      <change afterPath="$PROJECT_DIR$/src/m1s2/aula03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m1s2/aula03/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Aula02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/aula02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Aula03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/aula03/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Aula04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/aula04/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/Array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/exercicio/Array/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/ArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/exercicio/ArrayList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/exercicio/Ex1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/exercicio/Ex2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/exercicio/Ex3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/exercicio/Ex4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/exercicio/Ex5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S1/Exercicio/Ex6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s1/exercicio/Ex6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S2/Aula01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s2/aula01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/M1S2/Aula01/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1s2/aula01/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +30,19 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="053992a7-f562-4eee-b1d2-1d755d27a323" />
+        <option name="url" value="https://github.com/samuelikz/FuturoDEV.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/m1s2/aula01/Main.java" root0="SKIP_INSPECTION" />
@@ -124,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669683715354</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Metodos">
+      <created>1669771067565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669771067565</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,7 +158,9 @@
     <MESSAGE value="sistemas de venda ex4" />
     <MESSAGE value="Sequência de fibonacci" />
     <MESSAGE value="Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class" />
+    <MESSAGE value="Metodos" />
+    <MESSAGE value="Semana 02 atividades" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 02 atividades" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
